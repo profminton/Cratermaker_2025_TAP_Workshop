@@ -18,6 +18,19 @@ Detailed instructions on how to install Cratermaker can be found in the online d
 
 For hour 1, we will use the latest pre-compiled public release version of the code, which is available for Linux, MacOS, and Windows as a Python package.  
 
+To begin with, please clone this repository to your local machine:
+
+```bash
+$ git clone https://github.com/profminton/Cratermaker_2025_TAP_Workshop.git
+$ cd Cratermaker_2025_TAP_Workshop
+```
+
+If you have previously cloned the repository, be sure to update it in case there are any changes:
+
+```bash
+$ git pull
+```
+
 ### Hour 1: Install Jupyter Lab, Cratermaker, ParaView, and QGIS
 My preferred method for managing packages is `venv`. If you are more comfortable with some other tool, like `conda`, `poetry`, `uv`, etc, feel free to use that. 
 
