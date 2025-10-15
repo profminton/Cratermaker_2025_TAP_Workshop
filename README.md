@@ -1,5 +1,5 @@
 
-![Cratermaker logo](_images/Cratermaker_social_preview.svg)
+![Cratermaker logo](_images/Cratermaker_Social_Preview.svg)
 
 # Welcome to Cratermaker!
 Cratermaker Cratermaker was developed at Purdue University as a more user-friendly alternative to the [CTEM](hhttps://github.itap.purdue.edu/MintonGroup/ctem). It is still in development, so not all of the capabilities of CTEM have been implemented, but for those that have been developed, it is a far more powerful piece of software.
