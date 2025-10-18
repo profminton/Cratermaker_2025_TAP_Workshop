@@ -53,6 +53,11 @@ Be sure to activate the `TAP_Cratermaker` kernel.
 
 For analyzing output, the two tools I've come to rely on are [ParaView](https://www.paraview.org/) and [QGIS](https://qgis.org/)
 
+
+We will work through the following user guides and examples:
+
+1. [Surface](https://cratermaker.readthedocs.io/en/latest/user-guide/surface.html)
+
 ### Hour 2: Install a development environment
 For this section we will leave Jupyter Lab behind and move to a proper IDE. My preferred IDE is [Visual Studio Code](https://code.visualstudio.com/download), with the following extensions: C/C++ Extension Pack, Python and Python Debugger, rust-analyzer, Remote Development.
 
