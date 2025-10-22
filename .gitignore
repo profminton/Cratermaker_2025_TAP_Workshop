@@ -10,3 +10,8 @@
 # Folders must be whitelisted first before their contents
 !_images/
 !_images/Cratermaker_Social_Preview.svg
+
+!Intro/
+!Intro/.gitattributes
+!Intro/intro_to_cratermaker.ipynb
+!Intro/ohman3.csv
